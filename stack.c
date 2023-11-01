@@ -13,7 +13,7 @@ void push(int item) {
     }
 }
 
-void pop() {\
+void pop() {
     if(top != -1) {
         top--;
     printf("Eleman silindi\n");
